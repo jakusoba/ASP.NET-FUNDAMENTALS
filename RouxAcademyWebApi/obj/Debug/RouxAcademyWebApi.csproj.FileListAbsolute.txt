@@ -1,0 +1,201 @@
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll.config
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.pdb
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csc.exe
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csc.exe.config
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csc.rsp
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csi.exe
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csi.exe.config
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\csi.rsp
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.AppContext.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Console.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\vbc.exe
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\vbc.exe.config
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\vbc.rsp
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\Newtonsoft.Json.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Net.Http.Formatting.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Cors.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.Cors.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.WebHost.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Net.Http.Formatting.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.Cors.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\Newtonsoft.Json.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\System.Web.Http.WebHost.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csprojAssemblyReference.cache
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CoreCompileInputs.cache
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CopyComplete
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.dll
+C:\Exercise Files\Ch06\06_02_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.pdb
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\RouxAcademyWebApi.pdb
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csc.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csc.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csc.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csi.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csi.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\csi.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.AppContext.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Console.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Compression.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Claims.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.ValueTuple.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\vbc.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\vbc.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\vbc.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\Newtonsoft.Json.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Net.Http.Formatting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Cors.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.Cors.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.WebHost.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Net.Http.Formatting.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.Cors.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\Newtonsoft.Json.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\System.Web.Http.WebHost.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CoreCompileInputs.cache
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CopyComplete
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.pdb
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_Begin\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csprojAssemblyReference.cache
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\RouxAcademyWebApi.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\RouxAcademyWebApi.pdb
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csc.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csc.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csc.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csi.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csi.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\csi.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.AppContext.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Console.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.IO.Compression.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Claims.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.ValueTuple.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\vbc.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\vbc.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\vbc.rsp
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\Newtonsoft.Json.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Net.Http.Formatting.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Cors.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.Cors.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.WebHost.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Net.Http.Formatting.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.Cors.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\Newtonsoft.Json.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\System.Web.Http.WebHost.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csprojAssemblyReference.cache
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CoreCompileInputs.cache
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.csproj.CopyComplete
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.dll
+C:\SourceCode\Ex_Files_LearningASPNET_Update\Ch06\06_05_End\RouxAcademyWebApi\obj\Debug\RouxAcademyWebApi.pdb
